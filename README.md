@@ -1,7 +1,7 @@
 ### Olá! Me chamo Henrique 👋
 
 
-- 📒 Estudo atualmente no Senac Distrito Criativo, no último ano do ensino médio focado em Informática para Internet...
+- 📒 Formado em Técnico de Informática para internet, apaixonado em tecnologia e sempre buscando novas áreas de conhecimento 
 
 <div>
   <a href="https://github.com/yL0pes">
