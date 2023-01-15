@@ -4,12 +4,6 @@
 - 📒 Formado em Técnico de Informática para internet, apaixonado em tecnologia e sempre buscando novas áreas de conhecimento 
 
 <div>
-  <a href="https://github.com/yL0pes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yL0pes&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yL0pes&layout-compact&langs_count-16&theme=tokyonight"/>
-</a></div><br>
-
-<div>
 <a href="https://github.com/yl0pes">
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
